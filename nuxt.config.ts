@@ -15,6 +15,7 @@ export default defineNuxtConfig({
   // https://juejin.cn/post/7352797634556395535
   target: 'static', // 静态化部署
   app: {
-    baseUrl: '/', // /仓库名/
+    // baseUrl: '/', // /仓库名/
+    baseUrl: '/sxzheng77.github.io/', // /仓库名/
   },
 })
