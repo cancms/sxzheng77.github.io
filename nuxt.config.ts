@@ -16,6 +16,6 @@ export default defineNuxtConfig({
   target: 'static', // 静态化部署
   app: {
     // baseUrl: '/', // /仓库名/
-    baseUrl: '/sxzheng77.github.io/', // /仓库名/
+    baseURL: '/sxzheng77.github.io/', // /仓库名/
   },
 })
